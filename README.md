@@ -2,6 +2,8 @@
 
 These are my Ansible roles. They are made for my personal needs, but I try to make them as reusable as possible, since they might be of use to others.
 
+The roles are made for Debian (9) and Ubuntu (18.04).
+
 I *try* to follow [WhiteCloud's Ansible Styleguide](https://github.com/whitecloud/ansible-styleguide).
 
 Feel free to contribute. The roles are under the MIT license. They are not yet on Ansible Galaxy.
