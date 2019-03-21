@@ -21,6 +21,7 @@ Feel free to contribute. The roles are under the MIT license. They are not yet o
 - [ansible-php-fpm](https://github.com/angristan/ansible-php-fpm)
 - [ansible-postgresql](https://github.com/angristan/ansible-postgresql)
 - [ansible-redis](https://github.com/angristan/ansible-redis)
+- [ansible-restic](https://github.com/angristan/ansible-restic)
 - [ansible-telegraf](https://github.com/angristan/ansible-telegraf)
 - [ansible-wireguard](https://github.com/angristan/ansible-wireguard)
 - [ansible-yarn](https://github.com/angristan/ansible-yarn)
