@@ -12,6 +12,7 @@ Feel free to contribute. The roles are under the MIT license. They are *not* on 
 
 ## Roles
 
+- [ansible-alertmanager](https://github.com/angristan/ansible-alertmanager)
 - [ansible-base](https://github.com/angristan/ansible-base)
 - [ansible-caddy](https://github.com/angristan/ansible-caddy)
 - [ansible-elasticsearch](https://github.com/angristan/ansible-elasticsearch)
