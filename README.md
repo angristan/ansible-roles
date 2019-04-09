@@ -14,7 +14,7 @@ Feel free to contribute. The roles are under the MIT license. They are *not* on 
 
 - [ansible-alertmanager](https://github.com/angristan/ansible-alertmanager)
 - [ansible-base](https://github.com/angristan/ansible-base)
-- [ansible-blacbox-exporter](https://github.com/angristan/ansible-blacbox-exporter)
+- [ansible-blacbox-exporter](https://github.com/angristan/ansible-blackbox-exporter)
 - [ansible-caddy](https://github.com/angristan/ansible-caddy)
 - [ansible-elasticsearch](https://github.com/angristan/ansible-elasticsearch)
 - [ansible-grafana](https://github.com/angristan/ansible-grafana)
@@ -32,4 +32,4 @@ Feel free to contribute. The roles are under the MIT license. They are *not* on 
 - [ansible-telegraf](https://github.com/angristan/ansible-telegraf)
 - [ansible-wireguard](https://github.com/angristan/ansible-wireguard)
 - [ansible-yarn](https://github.com/angristan/ansible-yarn)
-- [ansible-zfs-auto-snaphost](https://github.com/angristan/ansible-zfs-auto-snaphost)
+- [ansible-zfs-auto-snaphost](https://github.com/angristan/ansible-zfs-auto-snapshot)
