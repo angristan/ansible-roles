@@ -30,6 +30,7 @@ Feel free to contribute. The roles are under the MIT license. They are *not* on 
 - [ansible-redis](https://github.com/angristan/ansible-redis)
 - [ansible-restic](https://github.com/angristan/ansible-restic)
 - [ansible-telegraf](https://github.com/angristan/ansible-telegraf)
+- [ansible-varnish](https://github.com/angristan/ansible-varnish)
 - [ansible-wireguard](https://github.com/angristan/ansible-wireguard)
 - [ansible-yarn](https://github.com/angristan/ansible-yarn)
 - [ansible-zfs-auto-snaphost](https://github.com/angristan/ansible-zfs-auto-snapshot)
