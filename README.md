@@ -18,6 +18,7 @@ Feel free to contribute. The roles are under the MIT license. They are *not* on 
 - [ansible-caddy](https://github.com/angristan/ansible-caddy)
 - [ansible-elasticsearch](https://github.com/angristan/ansible-elasticsearch)
 - [ansible-grafana](https://github.com/angristan/ansible-grafana)
+- [ansible-influxdb](https://github.com/angristan/ansible-influxdb)
 - [ansible-kibana](https://github.com/angristan/ansible-kibana)
 - [ansible-mysql](https://github.com/angristan/ansible-mysql)
 - [ansible-nginx](https://github.com/angristan/ansible-nginx)
