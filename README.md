@@ -29,6 +29,7 @@ Feel free to contribute. The roles are under the MIT license. They are *not* on 
 - [ansible-prometheus](https://github.com/angristan/ansible-prometheus)
 - [ansible-redis](https://github.com/angristan/ansible-redis)
 - [ansible-restic](https://github.com/angristan/ansible-restic)
+- [ansible-speedtest-cli](https://github.com/angristan/ansible-speedtest-cli)
 - [ansible-telegraf](https://github.com/angristan/ansible-telegraf)
 - [ansible-varnish](https://github.com/angristan/ansible-varnish)
 - [ansible-wireguard](https://github.com/angristan/ansible-wireguard)
