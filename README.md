@@ -6,7 +6,7 @@ The roles are made for Debian (9) and Ubuntu (18.04).
 
 I *try* to follow [WhiteCloud's Ansible Styleguide](https://github.com/whitecloud/ansible-styleguide).
 
-Each role is linted with [ansible-lint via CircleCI](https://angristan.xyz/quick-and-easy-ansible-linting-ci-pipeline/).
+Each role is linted with [ansible-lint via GitHub Actions](https://angristan.xyz/quick-and-easy-ansible-linting-ci-pipeline/).
 
 Feel free to contribute. The roles are under the MIT license. They are *not* on Ansible Galaxy.
 
