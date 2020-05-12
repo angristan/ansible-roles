@@ -22,6 +22,7 @@ Feel free to contribute. The roles are under the MIT license. They are *not* on 
 - [ansible-influxdb](https://github.com/angristan/ansible-influxdb)
 - [ansible-kibana](https://github.com/angristan/ansible-kibana)
 - [ansible-mysql](https://github.com/angristan/ansible-mysql)
+- [ansible-netdata](https://github.com/angristan/ansible-netdata)
 - [ansible-nginx](https://github.com/angristan/ansible-nginx)
 - [ansible-nodejs](https://github.com/angristan/ansible-nodejs)
 - [ansible-node-exporter](https://github.com/angristan/ansible-node-exporter)
