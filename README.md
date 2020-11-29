@@ -4,11 +4,11 @@ These are my Ansible roles. They are made for my personal needs, but I try to ma
 
 The roles are made for Debian (9) and Ubuntu (18.04).
 
-I *try* to follow [WhiteCloud's Ansible Styleguide](https://github.com/whitecloud/ansible-styleguide).
+I _try_ to follow [WhiteCloud's Ansible Styleguide](https://github.com/whitecloud/ansible-styleguide).
 
 Each role is linted with [ansible-lint via GitHub Actions](https://angristan.xyz/quick-and-easy-ansible-linting-ci-pipeline/).
 
-Feel free to contribute. The roles are under the MIT license. They are *not* on Ansible Galaxy.
+Feel free to contribute. The roles are under the MIT license. They are _not_ on Ansible Galaxy.
 
 ## Roles
 
@@ -22,6 +22,7 @@ Feel free to contribute. The roles are under the MIT license. They are *not* on 
 - [ansible-grafana](https://github.com/angristan/ansible-grafana)
 - [ansible-influxdb](https://github.com/angristan/ansible-influxdb)
 - [ansible-kibana](https://github.com/angristan/ansible-kibana)
+- [ansible-mono](https://github.com/angristan/ansible-mono)
 - [ansible-mysql](https://github.com/angristan/ansible-mysql)
 - [ansible-netdata](https://github.com/angristan/ansible-netdata)
 - [ansible-nginx](https://github.com/angristan/ansible-nginx)
