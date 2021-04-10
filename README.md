@@ -34,6 +34,7 @@ Feel free to contribute. The roles are under the MIT license. They are _not_ on 
 - [ansible-pgbouncer](https://github.com/angristan/ansible-pgbouncer)
 - [ansible-php-fpm](https://github.com/angristan/ansible-php-fpm)
 - [ansible-postgresql](https://github.com/angristan/ansible-postgresql)
+- [ansible-powershell](https://github.com/angristan/ansible-powershell)
 - [ansible-prometheus](https://github.com/angristan/ansible-prometheus)
 - [ansible-redis](https://github.com/angristan/ansible-redis)
 - [ansible-restic](https://github.com/angristan/ansible-restic)
