@@ -1,14 +1,16 @@
 # My Ansible roles
 
-These are my Ansible roles. They are made for my personal needs, but I try to make them as reusable as possible, since they might be of use to others.
+I use a bunch of ansible roles to manage various aspects of my personal infrastructure. While I try to make them as reusable as possible, I maintain them for myself. Feel free to use them, fork them, or take inspiration from them!
 
-The roles are made mainly for Debian 10.
+The roles are made mainly for Debian.
 
-I _try_ to follow [WhiteCloud's Ansible Styleguide](https://github.com/whitecloud/ansible-styleguide).
+Regarding my workflow:
 
-Each role is linted with [ansible-lint via GitHub Actions](https://angristan.xyz/quick-and-easy-ansible-linting-ci-pipeline/).
-
-Feel free to contribute. The roles are under the MIT license. They are _not_ on Ansible Galaxy.
+- Each role is linted with [ansible-lint via GitHub Actions](https://stanislas.blog/2019/03/quick-and-easy-ansible-linting-ci-pipeline/).
+- Commits follow the [Conventional Commit](https://www.conventionalcommits.org/) spec and are linted by [`commitlint`](https://github.com/conventional-changelog/commitlint).
+- The releases are automated with [`sementic-release`](https://github.com/semantic-release/semantic-release) and follow [Semantic Versioning](https://semver.org/).
+- The roles are **not** end-to-end tested with Molecule.
+- The roles are not on Ansible Galaxy. You can install them [from GitHub](https://docs.ansible.com/ansible/latest/galaxy/user_guide.html#installing-a-collection-from-a-git-repository) directly.
 
 ## Roles
 
