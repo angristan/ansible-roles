@@ -39,6 +39,7 @@ Regarding my workflow:
 - [ansible-powershell](https://github.com/angristan/ansible-powershell)
 - [ansible-prometheus](https://github.com/angristan/ansible-prometheus)
 - [ansible-redis](https://github.com/angristan/ansible-redis)
+- [ansible-redis-exporter](https://github.com/angristan/ansible-redis-exporter)
 - [ansible-restic](https://github.com/angristan/ansible-restic)
 - [ansible-speedtest-cli](https://github.com/angristan/ansible-speedtest-cli)
 - [ansible-telegraf](https://github.com/angristan/ansible-telegraf)
