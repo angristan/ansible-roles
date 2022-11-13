@@ -36,6 +36,7 @@ Regarding my workflow:
 - [ansible-pgbouncer](https://github.com/angristan/ansible-pgbouncer)
 - [ansible-php-fpm](https://github.com/angristan/ansible-php-fpm)
 - [ansible-postgresql](https://github.com/angristan/ansible-postgresql)
+- [ansible-postgres-exporter](https://github.com/angristan/ansible-postgres-exporter)
 - [ansible-powershell](https://github.com/angristan/ansible-powershell)
 - [ansible-prometheus](https://github.com/angristan/ansible-prometheus)
 - [ansible-redis](https://github.com/angristan/ansible-redis)
